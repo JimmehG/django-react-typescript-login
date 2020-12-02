@@ -3,7 +3,7 @@
 import os
 import sys
 
-from backend.environment import SETTINGS_MODULE
+from config.environment import SETTINGS_MODULE
 
 
 def main():
