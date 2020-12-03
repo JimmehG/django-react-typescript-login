@@ -24,6 +24,6 @@ DATABASES = {
         'USER': 'xxx',
         'PASSWORD': 'xxx',
         'HOST': 'xxx',
-        'PORT': '5346',
+        'PORT': '5432',
     }
 }'''
